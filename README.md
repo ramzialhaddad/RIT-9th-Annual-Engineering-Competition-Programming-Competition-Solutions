@@ -1,1 +1,2 @@
 # RIT 9th Annual Engineering Competition Programming Competition Solutions
+These are the solutions that my team came up with, these by far are probably not the most efficent, fastest or the best solution for the job. But this is how we did it with the contrainsts that RIT gave us. Overall, the competition was very fun, and I would like to participate next year as well!
